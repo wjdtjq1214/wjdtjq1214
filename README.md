@@ -41,6 +41,6 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 😵‍💫 Algorithm </h2> <br> 
     <div align="center">
-    <a href="https://solved.ac/profile/wjdtjq9655"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdtjq9655" alt="Solved.ac Profile Badge" data-canonical-src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdtjq9655" style="max-width: 100%;"></a>
+    <a href="https://solved.ac/profile/wjdtjq9655" target="_blank"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdtjq9655" alt="Solved.ac Profile Badge" data-canonical-src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdtjq9655" style="max-width: 100%;"></a>
     </div>
     </div>
