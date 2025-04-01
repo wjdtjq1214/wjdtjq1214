@@ -21,6 +21,21 @@
           <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
           </div>
     </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=wjdtjq1214&bg_color=180,000000,&title_color=000000&text_color=000000"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjdtjq1214&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
+           /> </div> 
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 😵‍💫 Algorithm </h2> <br> 
+    <div align="center">
+    <a href="https://solved.ac/profile/wjdtjq9655"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdtjq9655" alt="Solved.ac Profile Badge" data-canonical-src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdtjq9655" style="max-width: 100%;"></a>
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 경력 및 참여 프로젝트 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
+    </div> 
+    </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://pjs9655.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://pjs9655.tistory.com/"> </a>
@@ -28,13 +43,4 @@
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=wjdtjq1214&bg_color=180,000000,&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjdtjq1214&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-           /> </div> 
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 경력 및 참여 프로젝트 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
-    </div> 
     </div>
